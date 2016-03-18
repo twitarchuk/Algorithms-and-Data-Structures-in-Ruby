@@ -24,6 +24,8 @@ The solutions are easy to understand and complete.
 ### Others ###
 
 1. [Juggling Algorithm for array rotation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/JugglingAlgorithm.rb)
+2. [Reversal Algorithm for array rotation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/ReversalAlgorithm.rb)
+3. [Block Swap Algorithm for array rotation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/BlockSwapAlgorithm.rb)
 
 
 
