@@ -21,6 +21,7 @@ The solutions are easy to understand and complete.
 5. [Shell Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/ShellSort.rb)
 6. [Merge Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/MergeSort.rb)
 7. [Quick Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/QuickSort.rb)
+8. [3 way Quick Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/3wayQuickSort.rb)
 
 
 ### Others ###
