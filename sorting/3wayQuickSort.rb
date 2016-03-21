@@ -1,5 +1,8 @@
 # 3 way quick sort (Quick sort optimized for duplicates)
-
+#In 3 Way QuickSort, an array arr[l..r] is divided in 3 parts:
+    #a) arr[l..i] elements less than pivot.
+    #b) arr[i+1..j-1] elements equal to pivot.
+    #c) arr[j..r] elements greater than pivot
 
 def quick_sort(a,lo,hi)
     if lo<hi
