@@ -30,6 +30,7 @@ Explanation
 11, 99, 4545, 5555, and 9999 are the Kaprekar Numbers in the given range
 =end
 
+# Approach 1
 
 p = gets.chomp
 q= gets.chomp
@@ -68,3 +69,27 @@ unless arr.empty?
 else
     print "INVALID RANGE"
 end
+
+# Approach 2
+
+low = gets.chomp.to_i
+high = gets.chomp.to_i
+count = 0
+
+for i in (low..high) do 
+    num = (i**2)
+    size = (i.to_s.size)
+    
+    l = num / (10 ** (size))
+    r = num % (10 ** (size) )  
+          
+    if (l+r == i)
+        print i.to_s + " "
+    else
+        count += 1
+        if (count == (high - low +1))
+            print "INVALID RANGE"
+        end    
+    end  
+    
+end 
