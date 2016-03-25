@@ -22,6 +22,7 @@ The solutions are easy to understand and complete.
 6. [Merge Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/MergeSort.rb)
 7. [Quick Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/QuickSort.rb)
 8. [3 way Quick Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/3wayQuickSort.rb)
+9. [Counting Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/3wayQuickSort.rb)
 
 
 ### Others ###
@@ -32,6 +33,11 @@ The solutions are easy to understand and complete.
     a. [Recursive](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/BlockSwapAlgorithmRecursive.rb)
     b. [Iterative](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/BlockSwapAlgorithmIterative.rb)
 4. [Algorithm to find maximum continuos sum in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/MaxSliceSumAlgorithm.rb)
+
+
+
+### Hacker Rank ###
+1.[Modified Kaprekar Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/ModifiedKaprekarNumber.rb)~New approach added by [@madmantalking](https://github.com/madmantalking)
 
 
 
