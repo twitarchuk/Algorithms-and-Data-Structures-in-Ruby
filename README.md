@@ -37,6 +37,13 @@ The solutions are easy to understand and complete.
 
 
 ### Hacker Rank ###
+#### Algorithms ####
+
+##### Warm up #####
+
+##### Implementation #####
+
+##### Others #####
 1.[Modified Kaprekar Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/ModifiedKaprekarNumber.rb)~New approach added by [@madmantalking](https://github.com/madmantalking)
 
 
