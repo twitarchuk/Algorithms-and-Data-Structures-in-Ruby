@@ -40,7 +40,13 @@ The solutions are easy to understand and complete.
 #### Algorithms ####
 
 ##### Warm up #####
-
+1. [A Very Big Sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/AVeryBigSum.rb)
+2. [Diagnol Difference](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/DiagnolDifference.rb)
+3. [Plus Minus](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/PlusMinus.rb)
+4. [Simple Array Sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/SimpleArraySum.rb)
+5. [Solve Me First](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/SolveMeFirst.rb)
+6. [Staircase](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/Staircase.rb)
+7. [Time Conversion](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/TimeConversion.rb)
 ##### Implementation #####
 
 ##### Others #####
