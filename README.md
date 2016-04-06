@@ -47,7 +47,10 @@ The solutions are easy to understand and complete.
 5. [Solve Me First](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/SolveMeFirst.rb)
 6. [Staircase](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/Staircase.rb)
 7. [Time Conversion](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/TimeConversion.rb)
+
+
 ##### Implementation #####
+1.[Angry Professor](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/AngryProfessor.rb)
 
 ##### Others #####
 1.[Modified Kaprekar Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/ModifiedKaprekarNumber.rb)~New approach added by [@madmantalking](https://github.com/madmantalking)
