@@ -50,7 +50,14 @@ The solutions are easy to understand and complete.
 
 
 ##### Implementation #####
-1.[Angry Professor](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/AngryProfessor.rb)
+1. [Angry Professor](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/AngryProfessor.rb)
+2. [Chocolate Feast](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/ChocolateFeast.rb)
+3. [Cut The Sticks](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/CutTheSticks.rb)
+4. [Find Digits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/FindDigits.rb)
+5. [Service Lane](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/ServiceLane.rb)
+6. [Sherlock And Squares](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/SherlockAndSquares.rb)
+7. [Sherlock And The Beast](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/SherlockAndTHeBeast.rb)
+8. [Utopian Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/UtopianTree.rb)
 
 ##### Others #####
 1.[Modified Kaprekar Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/ModifiedKaprekarNumber.rb)~New approach added by [@madmantalking](https://github.com/madmantalking)
