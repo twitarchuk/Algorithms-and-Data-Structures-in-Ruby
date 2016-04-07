@@ -56,7 +56,7 @@ The solutions are easy to understand and complete.
 4. [Find Digits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/FindDigits.rb)
 5. [Service Lane](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/ServiceLane.rb)
 6. [Sherlock And Squares](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/SherlockAndSquares.rb)
-7. [Sherlock And The Beast](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/SherlockAndTHeBeast.rb)
+7. [Sherlock And The Beast](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/SherlockAndTheBeast.rb)
 8. [Utopian Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/UtopianTree.rb)
 
 ##### Others #####
