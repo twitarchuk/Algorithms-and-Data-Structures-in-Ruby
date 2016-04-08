@@ -12,11 +12,11 @@ answer = 3
 #Caveats: If the numbers are very large the sum can lead to integer overflow.
 
 def find_missing_number(a)
-    len = a.length
-    range_sum = (len * (len+1))/2
+    n = a.length+1
+    range_sum = (n * (n+1))/2  # Sum of numbers from 1 to n is (n* n+1 )/2
     arr_sum = 0
-    for i in 0...len
-        arr_sum+=a[i]
+    for x in a
+        arr_sum+=x
     end
     
     return missing_element = range_sum - arr_sum
