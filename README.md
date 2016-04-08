@@ -33,6 +33,7 @@ The solutions are easy to understand and complete.
     a. [Recursive](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/BlockSwapAlgorithmRecursive.rb)
     b. [Iterative](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/BlockSwapAlgorithmIterative.rb)
 4. [Algorithm to find maximum continuos sum in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/MaxSliceSumAlgorithm.rb)
+5. [Find missing number in array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/JugglingAlgorithm.rb)
 
 
 
