@@ -29,11 +29,23 @@ end
 # Time-complexity = O(n)
 
 def find_missing_number(a)
-    len = a.length
+    n = a.length+1
     missing_element = 0
-    (1..len+1).each {|num| missing_element^= num}
+    (1..n).each {|num| missing_element^= num}
     for x in a
         missing_element^=x
     end
   return missing_element
+end
+
+
+
+#Ruby magic
+#One line code but it uses O(n) auxiliary-space, it returns an array containing only the missing_element
+# Array1-Array2 in ruby returns an array containing all the elements that are in Array1 but not in Array2
+
+def find_missing_number(a)
+    n = a.length+1
+    range = Array (1..n)
+    missing_element = range-a
 end
