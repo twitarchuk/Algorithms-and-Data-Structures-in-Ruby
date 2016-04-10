@@ -18,7 +18,6 @@ def insertion_sort(a)
             end
             j=j-1
         end
-        p a
     end
     return a
 end
