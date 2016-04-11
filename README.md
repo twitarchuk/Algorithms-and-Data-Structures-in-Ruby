@@ -36,7 +36,7 @@ The solutions are easy to understand and complete.
 5. [Find missing number in array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/FindMissingNumber.rb)
 6. [Swapping two numbers](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/SwappingTwoNumbers.rb)
 7. [Shuffling an Array(Knuth Algorithm)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/KnuthShufflingAlgorithm.rb)
-8. [Find pair in array with sum equal to given sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/CheckPairWithGivenSum.rb)
+8. [Find pair in array with sum equal to given sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/ChekPairWithGivenSum.rb)
 
 
 
