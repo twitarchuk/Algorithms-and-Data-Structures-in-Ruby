@@ -41,6 +41,10 @@ The solutions are easy to understand and complete.
     b.[Fitcher-Yates shuffling Algorithm)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/FitcherYatesShufflingAlgorithm.rb)
 6. [Find pair in array with sum equal to given sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/ChekPairWithGivenSum.rb)
 7. [Find equilibrium index in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/EquilibriumIndexofArray.rb)
+8. Find fixed point in an array
+    * [fixed point in unsorted array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/FixedPointInUnsorted.rb)
+    * [fixed point in sorted array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/FixedPointInSorted.rb)
+
 
 
 
