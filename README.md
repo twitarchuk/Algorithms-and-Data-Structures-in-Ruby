@@ -28,17 +28,17 @@ The solutions are easy to understand and complete.
 ### Others ###
 
 1. Algorithms for array rotation
-    a. [Juggling Algorithm for array rotation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/JugglingAlgorithm.rb)
-    b. [Reversal Algorithm for array rotation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/ReversalAlgorithm.rb)
-    c. Block Swap Algorithm for array rotation
-        i). [Recursive](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/BlockSwapAlgorithmRecursive.rb)
-        ii). [Iterative](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/BlockSwapAlgorithmIterative.rb)
+    * [Juggling Algorithm for array rotation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/JugglingAlgorithm.rb)
+    * [Reversal Algorithm for array rotation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/ReversalAlgorithm.rb)
+    * Block Swap Algorithm for array rotation
+        * [Recursive](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/BlockSwapAlgorithmRecursive.rb)
+        * [Iterative](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/BlockSwapAlgorithmIterative.rb)
 2. [Algorithm to find maximum continuos sum in an array(Kadane's Algorithm)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/MaxSliceSumAlgorithm.rb)
 3. [Find missing number in array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/FindMissingNumber.rb)
 4. [Swapping two numbers](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/SwappingTwoNumbers.rb)
 5. Shuffling an Array
-    a.[Knuth shuffling Algorithm)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/KnuthShufflingAlgorithm.rb)
-    b.[Fitcher-Yates shuffling Algorithm)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/FitcherYatesShufflingAlgorithm.rb)
+    * [Knuth shuffling Algorithm](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/KnuthShufflingAlgorithm.rb)
+    * [Fitcher-Yates shuffling Algorithm](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/FitcherYatesShufflingAlgorithm.rb)
 6. [Find pair in array with sum equal to given sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/ChekPairWithGivenSum.rb)
 7. [Find equilibrium index in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/EquilibriumIndexofArray.rb)
 8. Find fixed point in an array
