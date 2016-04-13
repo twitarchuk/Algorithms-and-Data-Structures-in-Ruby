@@ -22,28 +22,34 @@ The solutions are easy to understand and complete.
 6. [Merge Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/MergeSort.rb)
 7. [Quick Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/QuickSort.rb)
 8. [3 way Quick Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/3wayQuickSort.rb)
-9. [Counting Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/3wayQuickSort.rb)
+9. [Counting Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/CountingSort.rb)
+10. [Sort array in wave form](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/SortInWaveForm.rb)
 
 
 ### Others ###
 
-1. Algorithms for array rotation
+1. [Swapping two numbers](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/SwappingTwoNumbers.rb)
+2. [Algorithm for reversing an array]((https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/ReverseAnArray.rb))
+3. Algorithms for array rotation
     * [Juggling Algorithm for array rotation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/JugglingAlgorithm.rb)
     * [Reversal Algorithm for array rotation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/ReversalAlgorithm.rb)
     * Block Swap Algorithm for array rotation
         * [Recursive](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/BlockSwapAlgorithmRecursive.rb)
         * [Iterative](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/BlockSwapAlgorithmIterative.rb)
-2. [Algorithm to find maximum continuos sum in an array(Kadane's Algorithm)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/MaxSliceSumAlgorithm.rb)
-3. [Find missing number in array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/FindMissingNumber.rb)
-4. [Swapping two numbers](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/SwappingTwoNumbers.rb)
-5. Shuffling an Array
+4. [Algorithm to find maximum continuos sum in an array(Kadane's Algorithm)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/MaxSliceSumAlgorithm.rb)
+5. [Find missing number in array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/FindMissingNumber.rb)
+6. Shuffling an Array
     * [Knuth shuffling Algorithm](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/KnuthShufflingAlgorithm.rb)
     * [Fitcher-Yates shuffling Algorithm](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/FitcherYatesShufflingAlgorithm.rb)
-6. [Find pair in array with sum equal to given sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/ChekPairWithGivenSum.rb)
-7. [Find equilibrium index in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/EquilibriumIndexofArray.rb)
-8. Find fixed point in an array
+7. [Find pair in array with sum equal to given sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/ChekPairWithGivenSum.rb)
+8. [Find pair in array with sum closest to given sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/ClosestSum.rb)
+9. [Find equilibrium index in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/EquilibriumIndexofArray.rb)
+10. Find fixed point in an array
     * [fixed point in unsorted array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/FixedPointInUnsorted.rb)
     * [fixed point in sorted array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/FixedPointInSorted.rb)
+11. Dutch National Flag Problem
+    * [Segregate Os and 1s in a given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/Segregate0and1.rb)
+12. [Find all Leaders in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/LeadersInArray.rb)
 
 
 
