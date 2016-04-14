@@ -50,27 +50,28 @@ The solutions are easy to understand and complete.
 6. Shuffling an Array
     * [Knuth shuffling Algorithm](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/KnuthShufflingAlgorithm.rb)
     * [Fitcher-Yates shuffling Algorithm](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FitcherYatesShufflingAlgorithm.rb)
-7. [Find pair in array with sum equal to given sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ChekPairWithGivenSum.rb)
-8. [Find pair in array with sum closest to given sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ClosestSum.rb)
-9. [Find equilibrium index in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/EquilibriumIndexofArray.rb)
-10. Find fixed point in an array
+7. [Find pair in array with sum equal to given value](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ChekPairWithGivenSum.rb)
+8. [Find pair in array with sum closest to given value](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ClosestSum.rb)
+9. [Find triplet in array with sum equal to given value](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/TripletWithGivenSum.rb)
+10. [Find equilibrium index in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/EquilibriumIndexofArray.rb)
+11. Find fixed point in an array
     * [fixed point in unsorted array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FixedPointInUnsorted.rb)
     * [fixed point in sorted array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FixedPointInSorted.rb)
-11. Dutch National Flag Problem
+12. Dutch National Flag Problem
     * [Segregate Os and 1s in a given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Segregate0and1.rb)
     * [Segregate Os,1s and 2s in a given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Segregate012.rb)
-12. [Move all zeros to the end of array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MoveZerosToEnd.rb)
-13. [Find all Leaders in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/LeadersInArray.rb)
-14. [Find smallest missing number in sorted array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SmallestMissingNumber.rb)
-15. Majority Element in an array
+13. [Move all zeros to the end of array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MoveZerosToEnd.rb)
+14. [Find all Leaders in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/LeadersInArray.rb)
+15. [Find smallest missing number in sorted array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SmallestMissingNumber.rb)
+16. Majority Element in an array
     * [Find majority element in unsorted array(Moore's voting algorithm)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MajorityElement.rb)
     * [Find majority element in sorted array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MajorityElementInSorted.rb)
-16. [Find minimum element in sorted rotated array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MinimumInSortedRotated.rb)
-17. [Search element in sorted rotated array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SearchInSortedRotatedArray.rb)
-18. [Find maximum element in a Bitonic Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaximumInBitonicArray.rb)
-19. [Find no. of occurences of an element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FrequencyInSortedArray.rb)
-20. [Find floor and ceil of given element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Floor&CeilInInSortedArray.rb)
-21. [Replace every array element by product of previous and next](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReplaceByPrev&Next.rb)
+17. [Find minimum element in sorted rotated array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MinimumInSortedRotated.rb)
+18. [Search element in sorted rotated array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SearchInSortedRotatedArray.rb)
+19. [Find maximum element in a Bitonic Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaximumInBitonicArray.rb)
+20. [Find no. of occurences of an element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FrequencyInSortedArray.rb)
+21. [Find floor and ceil of given element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Floor&CeilInInSortedArray.rb)
+22. [Replace every array element by product of previous and next](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReplaceByPrev&Next.rb)
 
 
 
