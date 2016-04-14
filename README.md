@@ -16,6 +16,9 @@ The solutions are easy to understand and complete.
     * [Find majority element in sorted array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MajorityElementInSorted.rb)
     * [Find minimum element in sorted rotated array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MinimumInSortedRotated.rb)
     * [Search element in sorted rotated array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SearchInSortedRotatedArray.rb)
+    * [Find maximum element in a Bitonic Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaximumInBitonicArray.rb)
+    * [Find no. of occurences of an element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FrequencyInSortedArray.rb)
+    * [Find floor and ceil of given element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Floor&CeilInInSortedArray.rb)
 
 
 ### Sorting ###
@@ -64,6 +67,10 @@ The solutions are easy to understand and complete.
     * [Find majority element in sorted array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MajorityElementInSorted.rb)
 16. [Find minimum element in sorted rotated array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MinimumInSortedRotated.rb)
 17. [Search element in sorted rotated array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SearchInSortedRotatedArray.rb)
+18. [Find maximum element in a Bitonic Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaximumInBitonicArray.rb)
+19. [Find no. of occurences of an element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FrequencyInSortedArray.rb)
+20. [Find floor and ceil of given element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Floor&CeilInInSortedArray.rb)
+21. [Replace every array element by product of previous and next](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReplaceByPrev&Next.rb)
 
 
 
