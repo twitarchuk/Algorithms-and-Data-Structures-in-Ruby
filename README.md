@@ -35,7 +35,7 @@ The solutions are easy to understand and complete.
 ### Others ###
 
 1. [Swapping two numbers](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SwappingTwoNumbers.rb)
-2. [Algorithm for reversing an array]((https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReverseAnArray.rb))
+2. [Algorithm for reversing an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReverseAnArray.rb)
 3. Algorithms for array rotation
     * [Juggling Algorithm for array rotation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/JugglingAlgorithm.rb)
     * [Reversal Algorithm for array rotation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReversalAlgorithm.rb)
