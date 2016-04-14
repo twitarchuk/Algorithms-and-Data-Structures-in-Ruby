@@ -19,6 +19,7 @@ The solutions are easy to understand and complete.
     * [Find maximum element in a Bitonic Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaximumInBitonicArray.rb)
     * [Find no. of occurences of an element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FrequencyInSortedArray.rb)
     * [Find floor and ceil of given element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Floor&CeilInInSortedArray.rb)
+    * [Find the element with odd occurences if all other elements have even occurences](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/OddOccurence.rb)
 
 
 ### Sorting ###
@@ -72,6 +73,7 @@ The solutions are easy to understand and complete.
 20. [Find no. of occurences of an element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FrequencyInSortedArray.rb)
 21. [Find floor and ceil of given element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Floor&CeilInInSortedArray.rb)
 22. [Replace every array element by product of previous and next](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReplaceByPrev&Next.rb)
+23. [Find the element with odd occurences if all other elements have even occurences](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/OddOccurence.rb)
 
 
 
