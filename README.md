@@ -72,8 +72,10 @@ The solutions are easy to understand and complete.
 19. [Find maximum element in a Bitonic Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaximumInBitonicArray.rb)
 20. [Find no. of occurences of an element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FrequencyInSortedArray.rb)
 21. [Find floor and ceil of given element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Floor&CeilInInSortedArray.rb)
-22. [Replace every array element by product of previous and next](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReplaceByPrev&Next.rb)
+22. [Replace every element by product of previous and next](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReplaceByPrev&Next.rb)
 23. [Find the element with odd occurences if all other elements have even occurences](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/OddOccurence.rb)
+24. [Print the maximum element in each k-sized subarray](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaximumofSizeKSubarrays.rb)
+25. [Replace every element by maximum element on the right side(Next Greatest Element)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReplaceWithNGE.rb)
 
 
 

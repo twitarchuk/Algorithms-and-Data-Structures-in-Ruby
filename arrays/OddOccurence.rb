@@ -6,7 +6,7 @@
 # Input like {2, 2, 2, 1} is also invalid as there are three consecutive occurrences of 2.
 
 
-#Time-complexity: O(n),Auxiliary-space:O(1)
+#Time-complexity: O(logn),Auxiliary-space:O(1)
 #Algorithm:Binary-search
 
 
@@ -29,7 +29,7 @@ def search_odd(a)
             end
         end
     end
-    return a[lo],lo,hi
+    return a[lo]
 end
 
 search_odd([3,1, 1, 2, 2, 3, 3, 4, 4,600, 600, 4, 4]) # => [3]
