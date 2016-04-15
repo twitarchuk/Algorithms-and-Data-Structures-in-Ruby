@@ -4,10 +4,13 @@ This repository contains Ruby implementation of various Algorithms and Data stru
 The solutions are easy to understand and complete.
 
 ## Content : ##
+[Searching](#searching)
+[Sorting](#sorting)
+[Arrays](#arrays)
+[HackerRank](#hackerrank)
 
-
+<a name="searching"/>
 ### Searching ###
-
 1. [Binary Search](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/searching/BinarySearch.rb)
 2. [Ubiquitous Binary Search (Binary search implementation with various applications)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/searching/UbiquitousBinarySearch.rb)
 3. Problems based on Binary Search
@@ -21,7 +24,7 @@ The solutions are easy to understand and complete.
     * [Find floor and ceil of given element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Floor&CeilInInSortedArray.rb)
     * [Find the element with odd occurences if all other elements have even occurences](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/OddOccurence.rb)
 
-
+<a name="sorting"/>
 ### Sorting ###
 
 1. [Bubble Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/BubbleSort.rb)
@@ -35,8 +38,8 @@ The solutions are easy to understand and complete.
 9. [Counting Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/CountingSort.rb)
 10. [Sort array in wave form](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/SortInWaveForm.rb)
 
-
-### Others ###
+<a name="Arrays"/>
+### Arrays ###
 
 1. [Swapping two numbers](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SwappingTwoNumbers.rb)
 2. [Algorithm for reversing an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReverseAnArray.rb)
@@ -79,7 +82,7 @@ The solutions are easy to understand and complete.
 
 
 
-
+<a name="hackerrank"/>
 ### Hacker Rank ###
 #### Algorithms ####
 
