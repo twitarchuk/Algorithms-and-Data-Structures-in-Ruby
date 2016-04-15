@@ -4,10 +4,10 @@ This repository contains Ruby implementation of various Algorithms and Data stru
 The solutions are easy to understand and complete.
 
 ## Content : ##
-[Searching](#searching)
-[Sorting](#sorting)
-[Arrays](#arrays)
-[HackerRank](#hackerrank)
+* [Searching](#searching)
+* [Sorting](#sorting)
+* [Arrays](#arrays)
+* [HackerRank](#hackerrank)
 
 <a name="searching"/>
 ### Searching ###
@@ -38,7 +38,7 @@ The solutions are easy to understand and complete.
 9. [Counting Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/CountingSort.rb)
 10. [Sort array in wave form](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/SortInWaveForm.rb)
 
-<a name="Arrays"/>
+<a name="arrays"/>
 ### Arrays ###
 
 1. [Swapping two numbers](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SwappingTwoNumbers.rb)
