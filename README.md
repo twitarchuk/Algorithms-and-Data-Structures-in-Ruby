@@ -7,6 +7,7 @@ The solutions are easy to understand and complete.
 * [Searching](#searching)
 * [Sorting](#sorting)
 * [Arrays](#arrays)
+* [Stacks](#stacks)
 * [HackerRank](#hackerrank)
 
 <a name="searching"/>
@@ -49,7 +50,9 @@ The solutions are easy to understand and complete.
     * Block Swap Algorithm for array rotation
         * [Recursive](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/BlockSwapAlgorithmRecursive.rb)
         * [Iterative](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/BlockSwapAlgorithmIterative.rb)
-4. [Algorithm to find maximum continuos sum in an array(Kadane's Algorithm)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaxSliceSumAlgorithm.rb)
+4. Subarray Problems(Kadane's Algorithm)
+    * [Algorithm to find maximum continuos sum in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaxSubarraySum.rb)
+    * [Algorithm to find maximum continuos product in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaxSubArrayProduct.rb)
 5. [Find missing number in array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
 6. Shuffling an Array
     * [Knuth shuffling Algorithm](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/KnuthShufflingAlgorithm.rb)
@@ -78,8 +81,17 @@ The solutions are easy to understand and complete.
 22. [Replace every element by product of previous and next](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReplaceByPrev&Next.rb)
 23. [Find the element with odd occurences if all other elements have even occurences](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/OddOccurence.rb)
 24. [Print the maximum element in each k-sized subarray](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaximumofSizeKSubarrays.rb)
-25. [Replace every element by maximum element on the right side(Next Greatest Element)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReplaceWithNGE.rb)
+25. [Print Next Greatest Element for each element of array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/NextGretestElement.rb)
+26. [Replace every element by maximum element on the right side(Next Greatest Element)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReplaceWithNGE.rb)
+27. [Find the smallest and second smallest in a given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Smallest&2ndSmallest.rb)
+28. [Find the maximum sum with no adjacent elements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaxSumNoAdjacent.rb)
+29. [Given two sorted arrays find the union and intersection of arrays](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Union&IntersectionOfArrays.rb)
+30. [Given unsorted array of numbers check if numbers are consecutive](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/CheckForConsecutive.rb)
 
+<a name="stacks"/>
+### Stacks ###
+
+1. [Print Next Greatest Element for each element of array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/NextGretestElement.rb)
 
 
 <a name="hackerrank"/>
