@@ -22,7 +22,7 @@ check_consecutive([1,4,3,2]) # => 1
 #Approach 2: Instead of using visited(auxiliary) array, we traverse for each index i and make a[i]-min -ve, 
 #if a[i]-min is already -ve ,there is a repetition.
 #Time-complexity:O(n),Auxiliary-space:O(1)
-#Caveat: This algorithm modifies the content of the array
+#Caveat: This algorithm modifies the content of the array and also this method might not work for negative numbers.
 
 def check_consecutive(a)
     len=a.length

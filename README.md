@@ -38,6 +38,7 @@ The solutions are easy to understand and complete.
 8. [3 way Quick Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/3wayQuickSort.rb)
 9. [Counting Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/CountingSort.rb)
 10. [Sort array in wave form](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/SortInWaveForm.rb)
+11. [Sort a given array by frequency of elements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SortArrayByFrequency.rb)
 
 <a name="arrays"/>
 ### Arrays ###
@@ -87,6 +88,7 @@ The solutions are easy to understand and complete.
 28. [Find the maximum sum with no adjacent elements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaxSumNoAdjacent.rb)
 29. [Given two sorted arrays find the union and intersection of arrays](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Union&IntersectionOfArrays.rb)
 30. [Given unsorted array of numbers check if numbers are consecutive](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/CheckForConsecutive.rb)
+31. [Sort a given array by frequency of elements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SortArrayByFrequency.rb)
 
 <a name="stacks"/>
 ### Stacks ###
