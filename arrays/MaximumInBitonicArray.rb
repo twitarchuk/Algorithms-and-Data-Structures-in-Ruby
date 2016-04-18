@@ -1,4 +1,5 @@
-#Given an Bitonic Array(array of integers which is initially increasing and then decreasing), find the maximum value in the array
+#Given an Bitonic Array(array of integers which is initially increasing and then decreasing),
+#find the maximum value in the array
 #Time-complexity: O(logn),Auxiliary-space:O(1)
 #Algorithm: Binary-search
 =begin

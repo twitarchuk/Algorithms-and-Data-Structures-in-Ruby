@@ -89,6 +89,7 @@ The solutions are easy to understand and complete.
 29. [Given two sorted arrays find the union and intersection of arrays](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Union&IntersectionOfArrays.rb)
 30. [Given unsorted array of numbers check if numbers are consecutive](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/CheckForConsecutive.rb)
 31. [Sort a given array by frequency of elements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SortArrayByFrequency.rb)
+32. [Create a product array from given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/CreateProductArray.rb)
 
 <a name="stacks"/>
 ### Stacks ###
