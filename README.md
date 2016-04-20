@@ -8,6 +8,8 @@ The solutions are easy to understand and complete.
 * [Sorting](#sorting)
 * [Arrays](#arrays)
 * [Stacks](#stacks)
+* [Bit Algorithms](#bitAlgo)
+* [Mathematics](#maths)
 * [HackerRank](#hackerrank)
 
 <a name="searching"/>
@@ -24,6 +26,7 @@ The solutions are easy to understand and complete.
     * [Find no. of occurences of an element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FrequencyInSortedArray.rb)
     * [Find floor and ceil of given element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Floor&CeilInInSortedArray.rb)
     * [Find the element with odd occurences if all other elements have even occurences](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/OddOccurence.rb)
+    * [Find the median of two sorted array of equal size](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MedianOf2SortedArrays.rb)
 
 <a name="sorting"/>
 ### Sorting ###
@@ -92,12 +95,23 @@ The solutions are easy to understand and complete.
 32. [Given unsorted array of numbers check if numbers are consecutive](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/CheckForConsecutive.rb)
 33. [Sort a given array by frequency of elements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SortArrayByFrequency.rb)
 34. [Create a product array from given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/CreateProductArray.rb)
+35. [Find the median of two sorted array of equal size](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MedianOf2SortedArrays.rb)
+36. [Given a 2D array,print its all elements in spiral order](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/PrintMatrixInSpiralOrder.rb)
 
 <a name="stacks"/>
 ### Stacks ###
 
 1. [Print Next Greatest Element for each element of array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/NextGretestElement.rb)
 
+<a name="bitAlgo"/>
+### Bit Algorithms ###
+
+1. [Check if a given number is power of 2 or not](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/bitAlgorithms/CheckForPowerOfTwo.rb)
+ 
+<a name="maths"/>
+### Mathematics ###
+
+1. [Fast multiplication of two numbers(Russian Peasant Multiplication)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/mathematics/FastMultiplication.rb)
 
 <a name="hackerrank"/>
 ### Hacker Rank ###

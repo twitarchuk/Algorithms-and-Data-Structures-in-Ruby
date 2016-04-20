@@ -56,3 +56,15 @@ def intersection(a,b)
         end
     end
 end
+
+
+
+#Ruby magic: One line solutions
+
+def union(a,b)
+    print a | b   # union([1,2,3],[2,3,4]) => [1, 2, 3, 4] 
+end
+
+def intersection(a,b)
+    print a & b     # intersection([1,2,3],[2,3,4]) => [2, 3]
+end
