@@ -1,4 +1,5 @@
 # Algorithms and Data Structures in Ruby #
+> ###Featured on [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 
 This repository contains Ruby implementation of various Algorithms and Data structures. 
 The solutions are easy to understand and complete.
