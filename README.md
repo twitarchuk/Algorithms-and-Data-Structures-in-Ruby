@@ -7,6 +7,7 @@ The solutions are easy to understand and complete.
 * [Searching](#searching)
 * [Sorting](#sorting)
 * [Arrays](#arrays)
+* [Hashing](#hashing)
 * [Stacks](#stacks)
 * [Bit Algorithms](#bitAlgo)
 * [Mathematics](#maths)
@@ -98,6 +99,13 @@ The solutions are easy to understand and complete.
 35. [Find the median of two sorted array of equal size](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MedianOf2SortedArrays.rb)
 36. [Given a 2D array,print its all elements in spiral order](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/PrintMatrixInSpiralOrder.rb)
 
+<a name="hashing"/>
+### Hashing ###
+
+1. [Find pair in array with sum equal to given value(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ChekPairWithGivenSum.rb)
+2. [Find pair in array with difference equal to given value(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ChekPairWithGivenDiff.rb)
+3. [Sort a given array by frequency of elements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SortArrayByFrequency.rb)
+
 <a name="stacks"/>
 ### Stacks ###
 
@@ -107,6 +115,8 @@ The solutions are easy to understand and complete.
 ### Bit Algorithms ###
 
 1. [Check if a given number is power of 2 or not](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/bitAlgorithms/CheckForPowerOfTwo.rb)
+2. [Check if a given number is even or odd](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/bitAlgorithms/CheckIfEvenOrOdd.rb)
+3. [Find missing number in array(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
  
 <a name="maths"/>
 ### Mathematics ###
