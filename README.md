@@ -1,8 +1,9 @@
 # Algorithms and Data Structures in Ruby #
 > ###Featured on [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 
-This repository contains Ruby implementation of various Algorithms and Data structures. 
-The solutions are easy to understand and complete.
+This repository contains Ruby implementation of various Algorithms and Data structures and
+solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Codility](https://codility.com/)
+
 
 ## Content : ##
 * [Searching](#searching)
@@ -13,6 +14,7 @@ The solutions are easy to understand and complete.
 * [Bit Algorithms](#bitAlgo)
 * [Mathematics](#maths)
 * [HackerRank](#hackerrank)
+* [Codility](#codility)
 
 <a name="searching"/>
 ### Searching ###
@@ -42,8 +44,9 @@ The solutions are easy to understand and complete.
 7. [Quick Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/QuickSort.rb)
 8. [3 way Quick Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/3wayQuickSort.rb)
 9. [Counting Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/CountingSort.rb)
-10. [Sort array in wave form](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/SortInWaveForm.rb)
-11. [Sort a given array by frequency of elements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SortArrayByFrequency.rb)
+10. [Pancake Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/PancakeSort.rb)
+11. [Sort array in wave form](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/SortInWaveForm.rb)
+12. [Sort a given array by frequency of elements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SortArrayByFrequency.rb)
 
 <a name="arrays"/>
 ### Arrays ###
@@ -99,6 +102,10 @@ The solutions are easy to understand and complete.
 34. [Create a product array from given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/CreateProductArray.rb)
 35. [Find the median of two sorted array of equal size](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MedianOf2SortedArrays.rb)
 36. [Given a 2D array,print its all elements in spiral order](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/PrintMatrixInSpiralOrder.rb)
+37. [Find two repeating elements in given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
+38. [Minimum length unsorted subarray,sorting which makes the array sorted](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/UnsortedSubArray.rb)
+39. [Find duplicates in array in O(n) time and constant space](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/DuplicatesInArray.rb)
+40. [Print all distinct elements of given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/PrintDistinct.rb)
 
 <a name="hashing"/>
 ### Hashing ###
@@ -106,6 +113,7 @@ The solutions are easy to understand and complete.
 1. [Find pair in array with sum equal to given value(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ChekPairWithGivenSum.rb)
 2. [Find pair in array with difference equal to given value(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ChekPairWithGivenDiff.rb)
 3. [Sort a given array by frequency of elements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SortArrayByFrequency.rb)
+4. [Print all distinct elements of given array(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/PrintDistinct.rb)
 
 <a name="stacks"/>
 ### Stacks ###
@@ -118,11 +126,14 @@ The solutions are easy to understand and complete.
 1. [Check if a given number is power of 2 or not](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/bitAlgorithms/CheckForPowerOfTwo.rb)
 2. [Check if a given number is even or odd](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/bitAlgorithms/CheckIfEvenOrOdd.rb)
 3. [Find missing number in array(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
+4. [Find two repeating elements in given array(Approach 4)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
  
 <a name="maths"/>
 ### Mathematics ###
 
 1. [Fast multiplication of two numbers(Russian Peasant Multiplication)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/mathematics/FastMultiplication.rb)
+2. [Find missing number in array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
+3. [Find two repeating elements in given array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
 
 <a name="hackerrank"/>
 ### Hacker Rank ###
@@ -151,7 +162,7 @@ The solutions are easy to understand and complete.
 ##### Others #####
 1.[Modified Kaprekar Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/ModifiedKaprekarNumber.rb)~New approach added by [@madmantalking](https://github.com/madmantalking)
 
-
-
+<a name="codility"/>
+### Codility ###
 
 
