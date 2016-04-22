@@ -136,7 +136,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 3. [Find two repeating elements in given array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
 
 <a name="hackerrank"/>
-### Hacker Rank ###
+### [Hacker Rank](https://www.hackerrank.com/) ###
 #### Algorithms ####
 
 ##### Warm up #####
@@ -163,6 +163,65 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 1.[Modified Kaprekar Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/ModifiedKaprekarNumber.rb)~New approach added by [@madmantalking](https://github.com/madmantalking)
 
 <a name="codility"/>
-### Codility ###
+### [Codility](https://codility.com/) ###
+
+#### [Lessons](https://codility.com/programmers/lessons/) ####
+
+##### Iterations #####
+
+* [BinaryGap](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Iterations/BinaryGap.rb)
+
+##### Arrays #####
+
+* [CyclicRotation (2 solutions: Reversal Algorithm/ Juggling Algorithm)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Arrays/CyclicRotation.rb)
+* [OddOccurencesInArray](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Arrays/OddOccurencesInArray.rb)
+
+##### Time-complexity #####
+
+* [FrogJmp](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Time%20Complexity/FrogJmp.rb)
+* [PermMissingElem](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Time%20Complexity/PermMissingElem.rb)
+* [TapeEquilibrium](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Time%20Complexity/TapeEquilibrium.rb)
+
+##### Counting Elements #####
+
+* [FrogRiverOne](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Counting%20Elements/FrogRiverOne.rb)
+* MaxCounters
+    * [Solution 1](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Counting%20Elements/MaxCounters.rb)
+    * [Solution 2](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Counting%20Elements/MaxCounters1.rb)
+* [MissingInteger](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Counting%20Elements/MissingInteger.rb)
+* [PermCheck](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Counting%20Elements/PermCheck.rb)
+
+##### Prefix Sums #####
+
+* [CountDiv](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prefix%20Sums/CountDiv.rb)
+* [MinAvgTwoSlice](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prefix%20Sums/MinAvgTwoSlice.rb)
+*  Passing Cars
+    * [Solution 1](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prefix%20Sums/PassingCars.rb)
+    * [Solution 2](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prefix%20Sums/PassingCars1.rb)
+    
+##### Sorting #####
+
+* [Distinct](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Sorting/Distinct.rb)
+* [MaxProductofThree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Sorting/MaxProductofThree.rb)
+* [Triangle](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Sorting/Triangle.rb)
+
+##### Stacks and Queues #####
+
+* [Fish](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Stacks%20and%20Queues/Fish.rb)
+* [Brackets](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Stacks%20and%20Queues/Brackets.rb)
+* [Nesting](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Stacks%20and%20Queues/Nesting.rb)
+
+##### Leader #####
+
+* [Dominator](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Leader/Dominator.rb)
+
+##### Maximum Slice Problem #####
+
+* [MaxDoubleSliceSum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Maximum%20Slice%20Problem/MaxDoubleSliceSum.rb)
+
+##### Prime and Composite numbers #####
+
+* [CountFActors](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prime%20and%20composite%20numbers/CountFactors.rb)
+* [MinPerimeterRectangle](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prime%20and%20composite%20numbers/MinPerimeterRectangle.rb)
 
 
