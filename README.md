@@ -173,7 +173,9 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 
 ##### Arrays #####
 
-* [CyclicRotation (2 solutions: Reversal Algorithm/ Juggling Algorithm)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Arrays/CyclicRotation.rb)
+* CyclicRotation
+  * [Reversal Algorithm(Solution 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Arrays/CyclicRotation.rb)
+  * [Juggling Algorithm(Solution 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Arrays/CyclicRotation1.rb)
 * [OddOccurencesInArray](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Arrays/OddOccurencesInArray.rb)
 
 ##### Time-complexity #####
