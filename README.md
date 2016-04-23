@@ -223,7 +223,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 
 ##### Prime and Composite numbers #####
 
-* [CountFActors](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prime%20and%20composite%20numbers/CountFactors.rb)
+* [CountFactors](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prime%20and%20composite%20numbers/CountFactors.rb)
 * [MinPerimeterRectangle](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prime%20and%20composite%20numbers/MinPerimeterRectangle.rb)
 
 
