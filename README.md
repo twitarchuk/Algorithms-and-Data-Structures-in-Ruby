@@ -1,5 +1,5 @@
 # Algorithms and Data Structures in Ruby #
-> ###Featured on [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+> ###Featured on [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms) & [Ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)
 
 This repository contains Ruby implementation of various Algorithms and Data structures and
 solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Codility](https://codility.com/)
