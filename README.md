@@ -132,6 +132,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 ### Mathematics ###
 
 1. [Fast multiplication of two numbers(Russian Peasant Multiplication)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/mathematics/FastMultiplication.rb)
+2. [Babylonian Method to find Square root of a number ](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/mathematics/BabylonianMethodSqrt.rb)
 2. [Find missing number in array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
 3. [Find two repeating elements in given array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
 
