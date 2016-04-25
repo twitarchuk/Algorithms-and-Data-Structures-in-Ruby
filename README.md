@@ -62,6 +62,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 4. Subarray Problems(Kadane's Algorithm)
     * [Algorithm to find maximum continuos sum in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaxSubarraySum.rb)
     * [Algorithm to find maximum continuos product in an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaxSubArrayProduct.rb)
+    * [Find max diff between 2 elements such that larger appears after smaller(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaxDiffLargerOnRigth.rb)
 5. [Find missing number in array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
 6. Shuffling an Array
     * [Knuth shuffling Algorithm](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/KnuthShufflingAlgorithm.rb)
@@ -104,8 +105,9 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 36. [Given a 2D array,print its all elements in spiral order](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/PrintMatrixInSpiralOrder.rb)
 37. [Find two repeating elements in given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
 38. [Minimum length unsorted subarray,sorting which makes the array sorted](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/UnsortedSubArray.rb)
-39. [Find duplicates in array in O(n) time and constant space](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/DuplicatesInArray.rb)
-40. [Print all distinct elements of given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/PrintDistinct.rb)
+39. [Find max diff between 2 elements such that larger appears after smaller](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaxDiffLargerOnRigth.rb)
+40. [Find duplicates in array in O(n) time and constant space](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/DuplicatesInArray.rb)
+41. [Print all distinct elements of given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/PrintDistinct.rb)
 
 <a name="hashing"/>
 ### Hashing ###
