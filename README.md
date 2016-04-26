@@ -127,8 +127,10 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 
 1. [Check if a given number is power of 2 or not](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/bitAlgorithms/CheckForPowerOfTwo.rb)
 2. [Check if a given number is even or odd](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/bitAlgorithms/CheckIfEvenOrOdd.rb)
-3. [Find missing number in array(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
-4. [Find two repeating elements in given array(Approach 4)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
+3. [Given a number return a number with last bit unset](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/bitAlgorithms/UnsetRightmostSetBit.rb)
+4. [Count the number of set bits(Brian Kernighan's method)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/bitAlgorithms/CountSetBits.rb)
+5. [Find missing number in array(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
+6. [Find two repeating elements in given array(Approach 4)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
  
 <a name="maths"/>
 ### Mathematics ###
@@ -228,5 +230,9 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 
 * [CountFactors](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prime%20and%20composite%20numbers/CountFactors.rb)
 * [MinPerimeterRectangle](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prime%20and%20composite%20numbers/MinPerimeterRectangle.rb)
+
+##### Others #####
+
+* [Find the length of smallest array with the same binarian value](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/LengthOfShortestBinarian.rb)
 
 
