@@ -108,6 +108,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 39. [Find max diff between 2 elements such that larger appears after smaller](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaxDiffLargerOnRigth.rb)
 40. [Find duplicates in array in O(n) time and constant space](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/DuplicatesInArray.rb)
 41. [Print all distinct elements of given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/PrintDistinct.rb)
+42. [Given an array array, find the maximum j – i such that the element later is bigger](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaxJminusI.rb)
 
 <a name="hashing"/>
 ### Hashing ###
