@@ -3,9 +3,9 @@
     
 
 
-def ubiquitous_binary_search(a, n, key) # a is the array , n is its length and key is the value we want to search
+def ubiquitous_binary_search(a,key) # a is the array and key is the value we want to search
     lo= 0
-    hi = n-1
+    hi = a.length-1
     
     while(hi-lo>1)
      mid = lo + (hi-lo)/2

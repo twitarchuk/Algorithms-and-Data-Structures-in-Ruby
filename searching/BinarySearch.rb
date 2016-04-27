@@ -4,9 +4,9 @@
 
 
 
-def binary_search (a,n,key)  # a is the array, n is length of array and key is the value to be found
+def binary_search (a,key)  # a is the array and key is the value to be found
     lo = 0
-    hi= n-1
+    hi= a.length-1
     
     while (lo<=hi)
         mid = lo+((hi-lo)/2)
