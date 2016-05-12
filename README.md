@@ -92,7 +92,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 23. [Find floor and ceil of given element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Floor&CeilInInSortedArray.rb)
 24. [Replace every element by product of previous and next](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReplaceByPrev&Next.rb)
 25. [Find the element with odd occurences if all other elements have even occurences](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/OddOccurence.rb)
-26. [Print the maximum element in each k-sized subarray](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaximumofSizeKSubarrays.rb)
+26. [Print the maximum element in each k-sized subarray](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaximumOfSizeKSubarrays.rb)
 27. [Print Next Greatest Element for each element of array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/NextGretestElement.rb)
 28. [Replace every element by maximum element on the right side(Next Greatest Element)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReplaceWithNGE.rb)
 29. [Find the smallest and second smallest in a given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Smallest&2ndSmallest.rb)
