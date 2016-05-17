@@ -4,6 +4,7 @@
 This repository contains Ruby implementation of various Algorithms and Data structures and
 solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Codility](https://codility.com/)
 
+If you are a Javascript lover visit this awesome repository of @madmantalking [here](https://github.com/madmantalking/js-algorithms)
 
 ## Content : ##
 * [Searching](#searching)
@@ -235,5 +236,4 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 ##### Others #####
 
 * [Find the length of smallest array with the same binarian value](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/LengthOfShortestBinarian.rb)
-
 
