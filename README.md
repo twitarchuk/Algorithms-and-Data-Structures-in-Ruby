@@ -4,7 +4,7 @@
 This repository contains Ruby implementation of various Algorithms and Data structures and
 solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Codility](https://codility.com/)
 
-If you are a Javascript lover visit this awesome repository of @madmantalking [here](https://github.com/madmantalking/js-algorithms)
+If you are a Javascript lover visit this awesome repository of @madmantalking [js-algorithms](https://github.com/madmantalking/js-algorithms)
 
 ## Content : ##
 * [Searching](#searching)
