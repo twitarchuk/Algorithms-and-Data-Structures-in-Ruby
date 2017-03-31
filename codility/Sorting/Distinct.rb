@@ -18,3 +18,8 @@ def solution(a)
     end
      return count+1
 end
+
+def alternative_solution(a)
+   require 'set' 
+   Set.new(a) 
+ end  
