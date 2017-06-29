@@ -4,18 +4,20 @@
 #Algorithm: Sort the array and using two indexes left and right update the closest sum
 
 def closest_sum(a,x)
-  a.sort!               #You can choose any sorting algorithm of your choice with
-  left=min_l=0
-  right=min_r=a.length-1
-  min_sum = 1.0/0.0     #Initializing min_sum with infinity
-  while(left<right)
-    sum=(a[left]+a[right])-x
-    if sum.abs<min_sum
-        min_sum=sum.abs
-        min_l=left
-        min_r=right
+  # choose any sorting algorithm
+  a.sort!
+  left = min_l = 0
+  right = min_r = a.length - 1
+  # initializing min_sum with infinity
+  min_sum = Float:INFINITY
+  while (left < right)
+    sum = a[left] + a[right] - x
+    if (sum.abs < min_sum)
+        min_sum = sum.abs
+        min_l = left
+        min_r = right
     end
-    if sum<0
+    if (sum < 0)
         left+=1
     else
         right-=1
