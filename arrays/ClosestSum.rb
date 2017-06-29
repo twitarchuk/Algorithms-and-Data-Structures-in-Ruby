@@ -23,7 +23,7 @@ def closest_sum(a,x)
         right-=1
     end
   end
-    print " The two elements whose sum is minimum are #{a[min_l]} and #{a[min_r]}"   
+    puts "The two elements whose sum is minimum are #{a[min_l]} and #{a[min_r]}"   
 end
 
 closest_sum([1,3,2,4,5],9) # => The two elements whose sum is minimum are 4 and 5
