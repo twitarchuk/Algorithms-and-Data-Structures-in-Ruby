@@ -9,7 +9,7 @@ def closest_sum(a,x)
   left = min_l = 0
   right = min_r = a.length - 1
   # initializing min_sum with infinity
-  min_sum = Float:INFINITY
+  min_sum = Float::INFINITY
   while (left < right)
     sum = a[left] + a[right] - x
     if (sum.abs < min_sum)
